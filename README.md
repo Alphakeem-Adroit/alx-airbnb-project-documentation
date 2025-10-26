@@ -108,7 +108,3 @@ Backend Developer | ALX Software Engineering Path
 ---
 
 > 📌 *This README and the surrounding documentation are living artifacts — they will evolve as the backend design and implementation evolve.*
-
-```
-
----
